@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Stas Syrota"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Machine Learning interested in uncertainty quantification, geometry and identifiability within Deep Learning."
+  bio              : "Trying to fix Bayesian Deep Learning during my PhD at DTU supervised by [Søren Hauberg](http://people.compute.dtu.dk/sohau/)." 
   location         : "Copenhagen"
   employer         : "Technical University of Denmark"
   uri              : 
