@@ -22,29 +22,29 @@ repository               : "mustass/mustass.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Menu"
+  name             : "Stas Syrota"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD student in Machine Learning interested in uncertainty quantification, geometry and identifiability within Deep Learning."
+  location         : "Copenhagen"
+  employer         : "Technical University of Denmark"
+  uri              : syrota.me
+  email            : "stasy@dtu.dk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  arxiv            : https://arxiv.org/search/stat?searchtype=author&query=Syrota,+S
+  googlescholar    : "https://scholar.google.com/citations?user=5IfafFYAAAAJ&hl"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mustass" # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "loremstasum"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "syrotastas"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,10 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  #books:
+  #  title: 'Books'
+  #manuscripts:
+  #  title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
