@@ -25,4 +25,4 @@ Key topics include:
 - Clustering, dimensionality reduction, and visualization (e.g., PCA)
 
 ## Capacity
-Contributed as a Teaching Assistant. The course was taught by Yevgeny Seldin and Christian Igel
+Contributed as a Teaching Assistant. The course was taught by [Yevgeny Seldin](https://sites.google.com/site/yevgenyseldin/) and [Christian Igel](https://christian-igel.github.io/)
