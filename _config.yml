@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Stas Syrota"
   pronouns         : # example: "she/her"  
-  bio              : "Trying to fix Bayesian Deep Learning during my PhD at DTU supervised by [Søren Hauberg](http://people.compute.dtu.dk/sohau/)." 
+  bio              : "Trying to fix Bayesian Deep Learning during my PhD at DTU supervised by <a href='http://people.compute.dtu.dk/sohau/'>Søren Hauberg</a>."
   location         : "Copenhagen"
   employer         : "Technical University of Denmark"
   uri              : 
