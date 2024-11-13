@@ -24,5 +24,5 @@ Key topics include:
 - Regression techniques (linear and non-linear)
 - Clustering, dimensionality reduction, and visualization (e.g., PCA)
 
-## 
+## Capacity
 Contributed as a Teaching Assistant. The course was taught by Yevgeny Seldin and Christian Igel

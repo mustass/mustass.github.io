@@ -19,5 +19,5 @@ The rest of the course demonstrates the advantages of this abstract understandin
 
 Finally, we extend the linear normal model to random effects models (mixed models, variance component models), which arise when experimental design induces more complex dependencies between the data. The course emphasizes hands-on practice in selecting the appropriate statistical model for real-world data.
 
-## 
+## Capacity 
 Contributed as a Teaching Assistant. The course was taught by Steffen Lauritzen and Anders Tolver

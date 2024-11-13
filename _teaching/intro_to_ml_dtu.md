@@ -10,5 +10,5 @@ location: "Copenhagen, Denmark"
 
 ## Content of the course
 principal component analysis. Similarity measures and summary statistics. Visualization and interpretation of models. Overfitting and generalization. Classification (decision trees, nearest neighbor, naive Bayes, neural networks, and ensemble methods.) Linear regression. Clustering (k-means, hierarchical clustering, and mixture models.) Association rules. Density estimation and outlier detection. Applications in a broad range of engineering sciences.
-## 
-Contributed as a Teaching Assistant. The course was taught by Bjørn Sand Jensen, Georgios Arvanitidis and Jes Frellsen.
+## Capacity 
+Contributed as a Teaching Assistant twice. The course was taught by Bjørn Sand Jensen, Georgios Arvanitidis and Jes Frellsen.

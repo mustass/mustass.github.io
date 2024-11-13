@@ -11,5 +11,5 @@ location: "Copenhagen, Denmark"
 ## Description of the course
 The purpose of the course is two-fold. First of all, the goal is to equip students with a deeper theoretical understanding of probabilistic machine learning and to enable them to read and understand the newest research literature in the field. Second, to enable students to discuss probabilistic models for practical problems and to discuss and apply appropriate inference algorithms.
 
-## 
+## Capacity
 Contributed as a Teaching Assistant. The course was taught by Michael Riis Andersen.
