@@ -67,7 +67,7 @@ Work Experience
     * Research and integration of novel data sources for bank analysis
     * Researching the macroeconomic effects of the COVID-19 pandemic in Denmark
   * Impact:
-    * The bank-analysis dashboard is still in use in 2022 and shared with The Danish Financial Supervisory Authority
+    * The bank-analysis dashboard is still in use in 2024 and shared with The Danish Financial Supervisory Authority
 
 Skills
 ======
