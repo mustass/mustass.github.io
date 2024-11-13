@@ -27,7 +27,7 @@ author:
   bio              : "PhD student in Machine Learning interested in uncertainty quantification, geometry and identifiability within Deep Learning."
   location         : "Copenhagen"
   employer         : "Technical University of Denmark"
-  uri              : syrota.me
+  uri              : 
   email            : "stasy@dtu.dk" 
 
   # Academic websites
@@ -49,14 +49,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "loremstasum"
+  instagram        : #loremstasum
   lastfm           : # Username
   linkedin         : "syrotastas"
   mastodon         : # URL
